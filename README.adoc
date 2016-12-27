@@ -1,0 +1,8 @@
+== Propuestas de charlas para meetups
+
+Este repo tiene como propósito proponer temas para los meetups. Al mismo tiempo, otros miembros pueden votar por las charlas con reacciones.
+
+Para realizar una propuesta, seguir los siguientes pasos:
+
+. Registrar un https://github.com/perujug/propuestas-meetup/issues[issue^] con el tópico y una descripción
+. Asignar label `workshop`, `talk`
