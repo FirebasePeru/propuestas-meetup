@@ -1,6 +1,7 @@
 == Android Dev Perú
 
 === Propuestas de charlas para los meetups
+[link=./images/androiddevperumeetups.png]
 
 Este repo tiene como propósito proponer temas para los meetups. Al mismo tiempo, otros miembros pueden votar por las charlas con reacciones.
 
@@ -12,8 +13,8 @@ Para realizar una propuesta, seguir los siguientes pasos:
 
 ## Links
 
-. Meetup Android Dev Perú [https://www.meetup.com/es-ES/Android-Dev-Peru/](https://www.meetup.com/es-ES/Android-Dev-Peru/)
+. Meetup Android Dev Perú https://www.meetup.com/es-ES/Android-Dev-Peru/[https://www.meetup.com/es-ES/Android-Dev-Peru/^]
 
-. Repositorio [https://github.com/Android-Dev-Peru](https://github.com/Android-Dev-Peru)
+. Repositorio https://github.com/Android-Dev-Peru[https://github.com/Android-Dev-Peru^]
 
-. Grupo en Facebook [https://www.facebook.com/groups/androidpe/](https://www.facebook.com/groups/androidpe/)
+. Grupo en Facebook https://www.facebook.com/groups/androidpe/[https://www.facebook.com/groups/androidpe/^]
