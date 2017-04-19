@@ -1,7 +1,7 @@
 == Android Dev Perú
 
 === Propuestas de charlas para los meetups
-[link=./images/androiddevperumeetups.png]
+image::./images/androiddevperumeetups.png[]
 
 Este repo tiene como propósito proponer temas para los meetups. Al mismo tiempo, otros miembros pueden votar por las charlas con reacciones.
 
