@@ -1,7 +1,4 @@
-== Android Dev Perú
-
-image::./images/androiddevperumeetups.png[]
-
+== Firebase Perú
 === Propuestas de charlas para los meetups
 
 
@@ -9,14 +6,14 @@ Este repo tiene como propósito proponer temas para los meetups. Al mismo tiempo
 
 Para realizar una propuesta, seguir los siguientes pasos:
 
-. Registrar un https://github.com/Android-Dev-Peru/propuestas-meetup/issues[issue^] con el tópico y una descripción .
+. Registrar un https://github.com/FirebasePeru/propuestas-meetup/issues[issue^] con el tópico y una descripción .
 . Asignar label `workshop`, `talk` .
 
 
 ## Links
 
-. Meetup Android Dev Perú https://www.meetup.com/es-ES/Android-Dev-Peru/[https://www.meetup.com/es-ES/Android-Dev-Peru/^]
+. Meetup Firebase Perú https://www.meetup.com/Firebase-Lima/[https://www.meetup.com/Firebase-Lima/^]
 
-. Repositorio https://github.com/Android-Dev-Peru[https://github.com/Android-Dev-Peru^]
+. Repositorio https://github.com/FirebasePeru[https://github.com/FirebasePeru^]
 
-. Grupo en Facebook https://www.facebook.com/groups/androidpe/[https://www.facebook.com/groups/androidpe/^]
+. Grupo en Facebook https://www.facebook.com/groups/FirebasePeru/[https://www.facebook.com/groups/FirebasePeru/^]
