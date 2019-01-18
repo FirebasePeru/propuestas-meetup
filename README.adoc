@@ -12,7 +12,7 @@ Para realizar una propuesta, seguir los siguientes pasos:
 
 ## Links
 
-. Meetup Firebase Perú https://www.meetup.com/Firebase-Lima/[https://www.meetup.com/Firebase-Lima/^]
+. Meetup Firebase Perú https://www.meetup.com/Firebase-Peru/[https://www.meetup.com/Firebase-Peru/^]
 
 . Repositorio https://github.com/FirebasePeru[https://github.com/FirebasePeru^]
 
